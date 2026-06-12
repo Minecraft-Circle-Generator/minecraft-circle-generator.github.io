@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minecraft-circle-gen.pages.dev/sitemap.xml
